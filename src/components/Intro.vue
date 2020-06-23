@@ -9,7 +9,7 @@
           <div class="col-md-5">
               <h2>About Pectroleum Investment</h2>
               <hr>
-              <p>Pectroleum Investment is your company of choice that allows you make high interest yielding and secured investments into oil and gas related opportunities that would otherwise not be available to the general public. Our expert team of fund managers and traders will trade pectroleum related products for good returns. <br>You too can start earning our 50% in 5 days for initial investment, or 50% in 44 hours when you select our promo plans.</p>
+              <p>Pectroleum Investment is your company of choice that allows you make high interest yielding and secured investments into oil and gas related opportunities that would otherwise not be available to the general public. Our expert team of fund managers and traders will trade pectroleum related products for good returns. <br>You too can start earning our 50% in 7 days for initial investment, or 50% in 44 hours when you select our promo plans <br>PLEASE NOTE THAT INITIAL INVESTMENT FOR ALL MEMBERS IS COMPULSORY</p>
                <router-link to="/signup" class="intro-btn animated zoomIn animate3d">Get Started <i class="fas fa-long-arrow-alt-right"></i> </router-link>
           </div>
       </div>
