@@ -18,7 +18,7 @@
             <h1 class="animated slideInDown animate3d">YOUR INVESTMENT IS <span class="orange">SAFE & SECURED</span></h1>
             <p
               class="animated slideInRight animate3d"
-            >RECOMMITMENT FEE IS 💯 OF YOUR INVENSTMENT AND THE MONEY WE BE ADDED TO YOUR INVESTMENT</p>
+            >Initial investment is compulsory. 100% of what ever you donated in the system</p>
              <router-link to="/signup" class="carousel-btn animated zoomIn animate3d">Get Started <i class="fas fa-long-arrow-alt-right"></i> </router-link>
           </div>
         </div>

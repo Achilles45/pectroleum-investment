@@ -23,11 +23,11 @@
                           <h3>Crowdfunding</h3>
                           <hr>
                           <p>The company deals with various high growth and secured investment opportunities. Some of the products and services we deal on includes</p>
-                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Skill Acquisition Trainings on Paints, Cosmetics, Beverages, Agricultural Products, Household/Chemical Products and Bee Keeping</p>
-                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; General Online Investments/CryptoTradings</p>
-                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Import & Export of Agro Allied Products</p>
+                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Import of gasoline, diesel, heating oil and aviation fuel</p>
+                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Import of biofuel and lubricants</p>
                           <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Import and Export of general pectroleum products</p>
-                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp;  Online/Offline seminars and Expositions</p>
+                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Import and Export of general pectroleum products</p>
+                          <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp;  Import and Export of bitumen and sulphur</p>
                           <p><i class="fa fa-check-circle"></i>&nbsp;&nbsp; Short term real estate investments and others...</p>
                       </div>
                   </div><br>
