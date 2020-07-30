@@ -14,7 +14,7 @@
                  <h6><i class="fa fa-envelope"></i>Email Address</h6>
                 <p>petroleumincmy@gmail.com</p>
                  <h6><i class="fa fa-phone"></i>Phone</h6>
-                <p><a href="tel:08129393883"> 08129393883</a></p>
+                <p><a href="tel:08088768691"> 08088768691</a></p>
               </div>
               <div class="col-md-4">
                   <h5>Payment Method</h5>
